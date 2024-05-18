@@ -14,3 +14,4 @@ The Excel files can be seen in the description of the video since the size is to
 
 Source : https://www.youtube.com/watch?v=4VkAwPYgSgk&t=2325s
 
+The SQL file had issues when downloading the file, so one may view my SQL file here, : https://deepnote.com/workspace/study-913f-fa8a644e-2777-4963-94d1-f63d9436864d/project/Real-World-Problem-Data-Analyst-a4a2cca1-2900-423e-9c98-2d83e24d256c/notebook/final_notebook-0a10c403bdc847769058ec3d3ff296a8 but one may need to create a account first, to view.
